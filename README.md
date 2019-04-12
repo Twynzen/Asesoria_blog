@@ -1,4 +1,4 @@
-Mi-primera-web
+Blog asesoria basado en plantilla
 ==============
 
 Archivos utilizados para hacer un sitio web basico con html5 y css3
